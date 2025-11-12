@@ -1,0 +1,24 @@
+# Core scientific computing
+numpy>=1.24.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+pandas>=2.0.0
+
+# Jupyter environment
+jupyter>=1.0.0
+jupyterlab>=4.0.0
+ipywidgets>=8.0.0
+ipympl>=0.9.0
+
+# Visualization
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Numerical methods and PDEs
+scikit-learn>=1.2.0
+sympy>=1.12
+
+# Optional: Advanced CFD/FEM libraries (uncomment if needed)
+# fenics
+# pyomo
+# fipy
